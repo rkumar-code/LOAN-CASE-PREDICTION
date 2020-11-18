@@ -20,4 +20,5 @@ Jaccard index
 F1-score
 
 LogLoass
+
 Link to the Coursera Project is here:https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5048d785-9375-455f-9561-8c9ec7323621/view?access_token=8263def8d3f21b49c82f157bd34144482079d8d9b6427c0c135c511fb86c5173
